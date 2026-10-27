@@ -1,3 +1,5 @@
+# KR2: Doskova
+
 import os
 import socket
 
